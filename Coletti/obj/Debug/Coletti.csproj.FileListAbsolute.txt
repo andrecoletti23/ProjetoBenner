@@ -48,3 +48,5 @@ C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\bin\Sy
 C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\obj\Debug\Coletti.csprojResolveAssemblyReference.cache
 C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\obj\Debug\Coletti.dll
 C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\obj\Debug\Coletti.pdb
+C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\obj\Debug\Coletti.Migrations.Teste.resources
+C:\Users\m010\Documents\Visual Studio 2015\Projects\ProjetoBenner\Coletti\obj\Debug\Coletti.csproj.GenerateResource.Cache
